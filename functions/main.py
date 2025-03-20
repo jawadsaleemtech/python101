@@ -1,9 +1,6 @@
-num_list = [1,3,4,5,6]
+num_list = list(range(20))
 
-squared = map(lambda num: num * num, num_list)
+for num in num_list:
+    pass # You can write code here later on
 
-squared_list = list(squared)
-
-
-print(squared)
-print(squared_list)
+print(len(num_list)) 
