@@ -1,0 +1,20 @@
+2025-03-21 10:00:00 INFO Application started successfully.
+2025-03-21 10:00:05 INFO User 'john_doe' logged in.
+2025-03-21 10:01:30 WARN Database connection slow, taking 5 seconds to respond.
+2025-03-21 10:02:45 ERROR Unable to process request for user 'john_doe'. Invalid input.
+2025-03-21 10:03:10 INFO File 'user_data.csv' successfully uploaded.
+2025-03-21 10:03:55 DEBUG File upload initiated by 'admin'.
+2025-03-21 10:04:20 INFO Task queue size: 0, all tasks processed.
+2025-03-21 10:05:00 INFO User 'jane_smith' logged in from IP 192.168.1.5.
+2025-03-21 10:06:00 ERROR Connection timeout while accessing external API.
+2025-03-21 10:06:30 INFO System health check passed.
+2025-03-21 10:07:15 WARN Low disk space on server 'server01'. 10GB remaining.
+2025-03-21 10:08:00 INFO Scheduled job 'data_backup' completed successfully.
+2025-03-21 10:09:00 ERROR Failed to send email to 'support@company.com'.
+2025-03-21 10:10:00 INFO User 'admin' logged out.
+2025-03-21 10:11:00 DEBUG Cache cleared for user 'john_doe'.
+2025-03-21 10:12:15 INFO System reboot scheduled for 12:00 PM.
+2025-03-21 10:12:50 WARN High memory usage detected, 85% of memory used.
+2025-03-21 10:13:30 ERROR Database connection failed to reconnect after 3 attempts.
+2025-03-21 10:14:00 INFO New version of the app deployed successfully.
+2025-03-21 10:15:00 DEBUG Request to /api/v1/data processed with status 200.
