@@ -10,8 +10,7 @@ def minimum(first, second):
     """
     if first < second:
         return first
-    return second
-
+    return second_cir
 print(minimum.__doc__)
 result = minimum(10, 20)
 print(f"The smaller number is: {result}")
