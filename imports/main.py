@@ -1,4 +1,6 @@
-from regular_imports import print_platform
+# Relative_imports
 
+from relative_imports.subpackage.module_x import main
 
-print_platform()
+if __name__ == '__main__':
+    main()
