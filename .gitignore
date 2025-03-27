@@ -3,3 +3,4 @@
 **/*.pyo
 **/credentials.json
 **/main-js.py
+**/test.txt
